@@ -11,9 +11,9 @@ title                    : "Zahra Asghari Varzaneh"
 title_separator          : "-"
 name                     : &name "Zahra"
 description              : &description "personal description"
-url                      : https://Zahraasghari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Zahra-Asghari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Zahra-Asghari/Zahraasghari.github.io"
+repository               : "Zahra-Asghari/Zahra-Asghari.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
