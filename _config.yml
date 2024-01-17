@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zahra Asghari Varzaneh"
 title_separator          : "-"
-name                     : &name <p align="justify">Zahra Asghari Varzaneh</p>
+name                     : &name Zahra Asghari Varzaneh
 description              : &description "personal description"
 url                      : https://Zahra-Asghari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
