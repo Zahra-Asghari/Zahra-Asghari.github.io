@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zahra Asghari"
+  name             : "Zahra Asghari Varzaneh"
   avatar           : "Book.jpg"
   bio              : "Senior researcher"
   location         : "Iran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zahra+asghari+varzaneh"
   googlescholar    : "https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Zahra-Asghari-Varzaneh"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "Zahra Asghari "
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3173-6849"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
