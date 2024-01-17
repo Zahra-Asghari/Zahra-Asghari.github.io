@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zahra Asghari Varzaneh"
   avatar           : "Book.jpg"
-  bio              : "Ph.D in Computer Science <br> Senior Researcher in AI" <br><br> <a href='https://aut.ac.ir/en'><img src='/images/uk.jpg' style='width: 20%; height: 20%;' /><
+  bio              : "Ph.D in Computer Science <br> Senior Researcher in AI" <br><br> <a href='https://aut.ac.ir/en'><img src='/images/uk.jpg' style='width: 20%; height: 20%;' /></a>
   location         : "Iran"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zahra+asghari+varzaneh"
