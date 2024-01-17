@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Edge detection in digital images using Ant Colony Optimization"
 collection: publications
 permalink: /publication/Edge detection in digital images using Ant Colony Optimization
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
