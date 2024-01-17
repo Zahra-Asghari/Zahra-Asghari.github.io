@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Publication
+**Here are some of my publications, sorted by categories and in descending order by year. Please find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en).**
 
-Explainability of Vision Transformers: A Comprehensive Review and New Perspectives [[Preprint](https://arxiv.org/abs/2311.06786)]
 
-**Rojina Kashefi<sup>*</sup>**, Leili Barekatain<sup>*</sup>, Mohammad Sabokrou, Fatemeh Aghaeipoor (To be Submitted in TMLR - Dec 2023)
+## Edge detection in digital images using Ant Colony Optimization
+
+[You can find it here ](https://www.math.md/files/csjm/v23-n3/v23-n3-(pp343-359).pdf)
 
