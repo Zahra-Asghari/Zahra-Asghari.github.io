@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zahra Asghari Varzaneh"
 title_separator          : "-"
-name                     : &name "Zahra"
+name                     : &name "Zahra asghari Varzaneh"
 description              : &description "personal description"
 url                      : https://Zahra-Asghari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zahra Asghari Varzaneh"
   avatar           : "Book.jpg"
-  bio              : "Senior researcher"
+  bio              : "Ph.D in Computer Science <br> Senior Researcher in AI"
   location         : "Iran"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zahra+asghari+varzaneh"
   googlescholar    : "https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en"
-  email            :
+  email            : "z.asghari@math.uk.ac.ir"
   researchgate     :  "https://www.researchgate.net/profile/Zahra-Asghari-Varzaneh"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Zahra Asghari "
+  linkedin         : "https://www.linkedin.com/in/zahra-asghari-71607a201/ "
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3173-6849"
   pinterest        :
   soundcloud       :
