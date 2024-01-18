@@ -66,7 +66,7 @@ Zahra Asghari Varzaneh, and Marjan Kuchaki Rafsanjani.<br>
  <img src='/images/CSJM.jpg' width="60" height="70" >_Computer Science Journal of Moldova,_(2015) 
 [[Paper Link] ](https://ibn.idsi.md/vizualizare_articol/40697)
 
-Book Translation
+Book Translating
 =====
 **Fundamentals of the New Artificial Intelligence: Neural, Evolutionary, Fuzzy and more**<br>
    **Author:** Toshinori Munakata. **Publisher:** _Springer_(2008)<br>
