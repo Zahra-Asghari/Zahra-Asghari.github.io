@@ -5,9 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'http://Zahra-Asghari.github.io/files/paper1.pdf'
+paperurl: 'http://Zahra-Asghari.github.io/files/CV.pdf'
 ---
-[CV file](http://Zahra-Asghari.github.io/files/paper1.pdf)
+[CV file](http://Zahra-Asghari.github.io/files/CV.pdf)
 {% include base_path %}
 
 Education
@@ -71,7 +71,7 @@ You can see the certificates received from Coursera in the [Certificate](https:/
 
 Publications
 ======
-You can find my publications in details in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/)
+You can find my publications in details in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
 * Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?
 * A Systematic Review of the Whale Optimization Algorithm: Theoretical Foundation, Improvements, and Hybridizations
 * An Intelligent Fuzzy System for Diabetes Disease Detection using Harris Hawks Optimization
@@ -86,14 +86,22 @@ You can find my publications in details in [My Google Scholar](https://scholar.g
 * Edge detection in digital images using Ant Colony Optimization
 * Intrusion detection by data mining algorithms: a review
 * A survey of hierarchical clustering algorithms
+* **Book translating:** Fundamentals of the New Artificial Intelligence: Neural, Evolutionary, Fuzzy and more
   
-Talks
+Talks and Presentation
 ======
- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2 
-* Skill 2
-  * Sub-skill 2.1  
+* Shahid Bahonar University of Kerman (2020-2022)
+  * Convolutional Neural Network
+  * Autoencoders
+  * Word Embeddingsin Natural Language Processing (NLP)
+  * Metaheuristic algorithms
+  * Feature Selection Methods
+* Ministry of Education (2022, Esfahan,Iran)
+  * Applications of artificial intelligence in life 
+* 52<sup>nd</sup>Annual Iranian mathematics Conference (2021,Kerman,Iran)
+  * A hybrid feature selection method for high-dimensional data based on HHO algorithm
+* 4<sup>th</sup>International Conference on Information Technology Management, Communication and Computer(2014,Qom,Iran)
+  * A hybrid Cuckoo Optimization Algorithm based fuzzy expert system for diabetes disease diagnosis
     
 Teaching
 ======
@@ -103,11 +111,11 @@ Teaching
   * Theory of Languages and Automata
   * Design of Algorithms
   * Artificial Intelligence
-  * ... 
+  * **Final Project** 
 * High School
   * Programming
   * Adobe Photoshop
-  * Adobe Premier
+  * Adobe Premiere
   * Autodesk Maya
   * Content production
   * ICDL
