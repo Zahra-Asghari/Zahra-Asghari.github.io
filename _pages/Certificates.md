@@ -4,7 +4,7 @@ title: "Certificates"
 permalink: /Certificates/
 author_profile: true
 ---
-<p align="justify">I have completed several courses on Coursera, where I successfully completed multiple projects assigned for each course. By undertaking these projects, I have gained valuable experience in various applications. I am well-prepared to tackle larger projects in different domains. Here I would like to highlight this aspect and present my accomplishments.</p>
+<p align="justify">I have completed several courses on Coursera, and I completed multiple projects assigned for each course. By undertaking these projects, I have gained valuable experience in various applications. I am well-prepared to tackle larger projects in different domains. Here, I would like to highlight this aspect and present my accomplishments.</p>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Data Analysis with Python**</a>
 <br/><img src='/images/DA.jpeg' width="900" height="350">
