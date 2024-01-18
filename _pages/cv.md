@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.Sc. in Computer Science, Vali-Asr University of Rafsanjan, 2009
+* M.Sc. in Computer Science(Major in Artificial Intelligence), Shahid Bahonar University of Kerman (UK), 2013
+    * Supervisor: [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
+    * GPA : 3.8/4
+* Ph.D in Computer Science(Major in Artificial Intelligence), Shahid Bahonar University of Kerman (UK),2023
+  * Supervisor: [Dr. soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
+  * GPA : 4/4
+    
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2013 – 2019 (Part-time): Lecturer in  Computer Engineering
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 – Current (Full –time): High school  Lecturer /Management 
+  * High school for girls, Ministry of Education
+    
+* 2020 – Current (Part-time) : AI Researcher
+  * Ministry of Health and Medical Education  
   
 Skills
 ======
