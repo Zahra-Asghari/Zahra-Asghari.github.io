@@ -70,5 +70,5 @@ Book Translation
 [[Translated Book]](https://press.marvdasht.iau.ir/book_102.html)
 
 
-| <img src='/images/Book.jpg' width="300" height="400" text-align="center"> | <img src='/images/Boob2.JPG' width="300" height="400">|
+| <img src='/images/Book.jpg' width="400" height="450" text-align="center"> | <img src='/images/Boob2.JPG' width="400" height="450">|
 
