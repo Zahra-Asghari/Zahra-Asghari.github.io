@@ -39,6 +39,19 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+
+Certificates
+======
+You can see the certificates received from Coursera in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
+* Data Analysis with Python
+* Machine Learning with Python
+* Deep Learning
+  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  * Sequence Models
+  * Convolutional Neural Networks
+  * Neural Networks and Deep Learning
+  * Structuring Machine Learning Projects
+
 Publications
 ======
 * Skill 1
