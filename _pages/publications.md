@@ -66,8 +66,8 @@ Book Translation
 **Fundamentals of the New Artificial Intelligence: Neural, Evolutionary, Fuzzy and more**<br>
    **Author:** Toshinori Munakata. **Publisher:** _Springer_(2008)<br>
    [[Book] ](https://link.springer.com/book/10.1007/978-1-84628-839-5)<br>
-   **Translated by:** Zahra Asghari Varzaneh, and Masoumeh Sharifzadeh, Mazdaand Moatari. **Publisher:** _Islamic Azad University, Marvdasht Branch, Iran_ (2015) <br> 
+   **Translated by:** Zahra Asghari Varzaneh, and Masoumeh Sharifzadeh, Mazdaand Moatari. **Publisher:** _Islamic Azad University of Marvdasht Branch, Iran_ (2015) <br> 
 [[Translated Book]](https://press.marvdasht.iau.ir/book_102.html)
 
-| (<img src='/images/Book.jpeg' width="300" height="450">) | (<img src='/images/Book.jpeg' width="300" height="450">)|
+| (<img src='/images/Book.jpg' width="300" height="400">) | (<img src='/images/Book.jpg' width="300" height="400">)|
 
