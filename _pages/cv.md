@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV file]
 {% include base_path %}
 
 Education
@@ -53,6 +53,14 @@ Talks
   * Sub-skill 2.1  
     
 Teaching
+======
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2 
+* Skill 2
+  * Sub-skill 2.1
+  
+Honors and Awards
 ======
 * Skill 2
   * Sub-skill 2.1
