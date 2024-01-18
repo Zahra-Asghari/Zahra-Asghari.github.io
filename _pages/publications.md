@@ -64,8 +64,8 @@ Zahra Asghari Varzaneh, and Marjan Kuchaki Rafsanjani.<br>
 Book Translation
 =====
 **Fundamentals of the New Artificial Intelligence: Neural, Evolutionary, Fuzzy and more**<br>
-   **Author:** Toshinori Munakata. **Publisher:** _Springer_(2008) <br>
-   [You can find it here ](https://link.springer.com/book/10.1007/978-1-84628-839-5)
+   **Author:** Toshinori Munakata. **Publisher:** _Springer_(2008)<br>
+   [You can find it here ](https://link.springer.com/book/10.1007/978-1-84628-839-5)<br>
    **Translated by:** Zahra Asghari Varzaneh, and Masoumeh Sharifzadeh, Mazdaand Moatari. **Publisher:** _Islamic Azad University, Marvdasht Branch, Iran_ (2015) <br> 
 [You can find it here ](https://press.marvdasht.iau.ir/book_102.html)
 
