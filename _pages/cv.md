@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * 2013 – 2019 (Part-time): Lecturer in  Computer Engineering
-  * Github University
+  * Payame Noor University of Esfahan
 
 * 2016 – Current (Full –time): High school  Lecturer /Management 
   * High school for girls, Ministry of Education
@@ -41,22 +41,28 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Skill 1
+* Skill 2
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ * Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2 
+* Skill 2
+  * Sub-skill 2.1  
+    
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2 
+* Skill 2
+  * Sub-skill 2.1  
   
-Service and leadership
+People
 ======
-* Currently signed in to 43 different slack teams
+* [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
+* [Dr. soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
+* [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
+* [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
