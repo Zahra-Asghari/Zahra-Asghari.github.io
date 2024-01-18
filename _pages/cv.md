@@ -55,8 +55,21 @@ You can see the certificates received from Coursera in the [Certificate](https:/
 
 Publications
 ======
-* Skill 1
-* Skill 2
+You can find my publications in details in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/)
+* Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?
+* A Systematic Review of the Whale Optimization Algorithm: Theoretical Foundation, Improvements, and Hybridizations
+* An Intelligent Fuzzy System for Diabetes Disease Detection using Harris Hawks Optimization
+* A novel binary horse herd optimization algorithm for feature selection problem
+* Binary starling murmuration optimizer algorithm to select effective features from medical data
+* Prediction of successful aging using ensemble machine learning algorithms
+* A new hybrid feature selection based on Improved Equilibrium Optimization
+* Deep text clustering using stacked AutoEncoder
+* The impact of preprocessing techniques for Covid-19 mortality prediction
+* A new COVID-19 intubation prediction strategy using an intelligent feature selection and K-NN method
+* Intrusion detection system using a new fuzzy rule-based classification system based on genetic algorithm
+* Edge detection in digital images using Ant Colony Optimization
+* Intrusion detection by data mining algorithms: a review
+* A survey of hierarchical clustering algorithms
   
 Talks
 ======
@@ -76,12 +89,12 @@ Teaching
   
 Honors and Awards
 ======
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2 
-* Skill 2
-  * Sub-skill 2.1  
-  
+* Best faculty researcher prize  
+  * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013)
+* First ranked student in M.Sc
+* Received Full Scholarship from University
+* Referee in some journals 
+    
 People
 ======
 * [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
