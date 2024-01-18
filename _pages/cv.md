@@ -33,14 +33,30 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
+* Computer Science
+* Artificial Intelligence (AI)
+  * Data mining
+    * RapidMiner
+    * Knime
+    * Weka
+    * Oracle
+    * SPSS
+  * Machine Learning
+    * keras
+    * Scikit-learn
+    * NLTK
+    * Numpy
+    * Neuraldesigner
+  * Deep Learning
+    * Tensorflow
+    * Keras
+    * H<sub>2</sub>O.ai
+* Programming
+  * MATLAB
+  * Python
+* University Teaching
+* Research
+  
 Certificates
 ======
 You can see the certificates received from Coursera in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
@@ -81,13 +97,19 @@ Talks
     
 Teaching
 ======
-* Skill 2
+* Payame Noor University
   * Sub-skill 2.1
   * Sub-skill 2.2 
-* Skill 2
-  * Sub-skill 2.1
+* High School
+  * Programming
+  * Adobe Photoshop
+  * Adobe Premier
+  * Autodesk Maya
+  * Content production
+  * ICDL
+  * ...
   
-Honors and Awards
+Honors and Activities 
 ======
 * Best faculty researcher prize  
   * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013)
@@ -97,7 +119,7 @@ Honors and Awards
     
 People
 ======
-* [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
 * [Dr. soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
+* [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
 * [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
 * [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
