@@ -6,7 +6,7 @@ author_profile: true
 ---
 Here are some of my publications, sorted by categories and in descending order by year. Please find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en).<br>
 ______________________________________________________________________________________________________________________________ <br>
-**Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?1**<br>
+<img src='/images/Book.jpg' width="40" height="45" >**Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?1**<br>
 Razieh Mirzaeian, and Raoof Nopour, and Zahra Asghari Varzaneh, and Mohsen Shafiee, and Mostafa Shanbehzadeh, and Hadi Kazemi‑Arpanahi.<br>
  _BioMedical Engineering OnLine,_(2023) 
 [[Paper Link ]](https://link.springer.com/article/10.1186/s12938-023-01140-9)
