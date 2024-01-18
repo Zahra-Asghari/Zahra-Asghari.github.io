@@ -15,11 +15,9 @@ Education
 * B.Sc. in Computer Science, Vali-Asr University of Rafsanjan, 2009
 * M.Sc. in Computer Science(Major in Artificial Intelligence), Shahid Bahonar University of Kerman (UK), 2013
     * Supervisor: [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
-    * Thesis: _Proposing a new Data mining method for network Intrusion Detection_, Degree: _Excellent_
     * GPA : 3.8/4
 * Ph.D in Computer Science(Major in Artificial Intelligence), Shahid Bahonar University of Kerman (UK),2023
   * Supervisor: [Dr. soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
-  * Thesis: _Effective feature selection for network intrusion detection using improved metaheuristic algorithms_, Degree: _Excellent_
   * GPA : 4/4
     
 Work experience
@@ -100,8 +98,12 @@ Talks
 Teaching
 ======
 * Payame Noor University
-  * Sub-skill 2.1
-  * Sub-skill 2.2 
+  * Computer Fundamentals and Programming
+  * Data Structures
+  * Theory of Languages and Automata
+  * Design of Algorithms
+  * Artificial Intelligence
+  * ... 
 * High School
   * Programming
   * Adobe Photoshop
