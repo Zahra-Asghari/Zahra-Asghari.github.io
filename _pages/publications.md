@@ -69,6 +69,6 @@ Book Translation
    **Translated by:** Zahra Asghari Varzaneh, and Masoumeh Sharifzadeh, Mazdaand Moatari. **Publisher:** _Islamic Azad University of Marvdasht Branch, Iran_ (2015) <br> 
 [[Translated Book]](https://press.marvdasht.iau.ir/book_102.html)
 
-|:--------:|:-------:|<br>
+
 |: <img src='/images/Book.jpg' width="300" height="400"> :|: <img src='/images/Boob2.JPG' width="300" height="400">:|
 
