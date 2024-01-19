@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 paperurl: 'http://Zahra-Asghari.github.io/files/CV.pdf'
 ---
+<p align="justify"> Here, I present my curriculum vitae (CV) highlighting my scientific and research experiences in relevant fields. Additionally, you are capable of receiving and reviewing my CV file within this Page.</p>
+  
 [CV file](http://Zahra-Asghari.github.io/files/CV.pdf)
 {% include base_path %}
 
