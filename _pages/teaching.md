@@ -7,6 +7,7 @@ author_profile: true
 <p align="justify"> Within this page, a compilation of teaching experiences in both university and high school settings, alongside my engagements in delivering speeches and presentations at conferences and scientific symposiums, is presented. These speaking engagements have primarily focused on topics encompassing the realms of artificial intelligence and practical software applications.</p>
 
 
+
 Talks and Presentation
 ======
 * **Shahid Bahonar University of Kerman (2020-2022)**
@@ -24,6 +25,7 @@ Talks and Presentation
     
 * **4<sup>th</sup>International Conference on Information Technology Management, Communication and Computer(2014,Qom,Iran)**
   * A hybrid Cuckoo Optimization Algorithm based fuzzy expert system for diabetes disease diagnosis
+
 
     
 Teaching
