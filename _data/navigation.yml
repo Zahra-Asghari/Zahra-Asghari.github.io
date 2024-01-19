@@ -6,7 +6,7 @@ main:
   - title: "Research Projects"
     url: /Projects/   
 
-    - title: "Repositories"
+  - title: "Repositories"
     url: /Repositories/
 
   - title: "Teaching and Presentation"
