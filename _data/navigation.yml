@@ -4,7 +4,10 @@ main:
     url: /publications/
 
   - title: "Research Projects"
-    url: /Projects/    
+    url: /Projects/   
+
+    - title: "Repositories"
+    url: /Repositories/
 
   - title: "Teaching and Presentation"
     url: /teaching/    
@@ -18,5 +21,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Repositories"
-    url: /Repositories/
+  
