@@ -9,11 +9,12 @@ author_profile: true
 **Prediction of successful aging using ensemble machine learning algorithms**
 
 [Certificate](https://ris.abadanums.ac.ir/teammate?xyz=MQXiCTO6H67-ojKg_VWnvpEV4hhxIlo_Hpr2Coyp_gQCTBiQy1neFyTaTAxn6zm0uk2UOXchl9V8zdb3NMcUVqgOLChYt68Mg2wU-PX5J1QXyZ)
-
+<br/><img src='/images/RP2.jpg' width="380" height="200">
 
 **Using adaptive neuro-fuzzy inference system for predicting successful aging**
 
 [Certificate](https://ris.abadanums.ac.ir/teammate?xyz=MQXiCTO6H67-ojKg_VWnvpEV4hhxIlo_Hpr2Coyp_gQCTBiQy1neFyTaTAxn6zm0uk2UOXchl9V8zdb3NMcUVqgOLChYt68Mg2wU-PX5J1QXyZ)
+<br/><img src='/images/RP1.jpg' width="380" height="200">
 
 **Deep text clustering using stacked AutoEncoder**
 
