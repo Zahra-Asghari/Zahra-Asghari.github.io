@@ -134,8 +134,8 @@ Honors and Activities
     
 Collaborators
 ======
-* [Dr. soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
+* [Dr. Soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
 * [Prof. Seyyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
 * [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
 * [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
-* [Dr. hoda Zamani](https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en)
+* [Dr. Hoda Zamani](https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en)
