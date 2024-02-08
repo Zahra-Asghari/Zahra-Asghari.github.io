@@ -130,7 +130,15 @@ Honors and Activities
 * First ranked student in M.Sc
 * First ranked student in Ph.D
 * Received Full Scholarship from University
-* Referee in some journals 
+* Referee in some journals
+
+Professional Associations and Membership
+======
+* AI Researcher at Abadan University of Medical Sciences
+* Member of the International Association of Engineers (IAENG)
+* Member of IAENG Society of Artificial Intelligence
+* Member of IAENG Society of Data Mining
+* Member of IAENG Society of Computer Science
     
 Collaborators
 ======
