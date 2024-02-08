@@ -9,14 +9,14 @@ author_profile: true
 <a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Machine Learning**</a>
 <br/><img src='/images/ML1.jpeg' width="900" height="350">
 
+<br><a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Supervised Machine Learning: Regression and Classification**</a>
+<br/><img src='/images/S.jpeg' width="900" height="350">
+
 <br><a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Advanced Learning Algorithms**</a>
 <br/><img src='/images/ALA.jpeg' width="900" height="350">
 
 <br><a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Unsupervised Learning, Recommenders, Reinforcement Learning**</a>
 <br/><img src='/images/USL.jpeg' width="900" height="350">
-
-<br>href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Supervised Machine Learning: Regression and Classification**</a>
-<br/><img src='/images/S.jpeg' width="900" height="350">
 
 <br><a href="https://www.coursera.org/account/accomplishments/verify/A4NYYHDAFYVC">**Machine Learning with Python**</a>
 <br/><img src='/images/ML.jpeg' width="900" height="350">
