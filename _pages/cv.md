@@ -56,6 +56,7 @@ Skills
 * Programming
   * MATLAB
   * Python
+  * Git
 * University Teaching
 * Research
   
@@ -64,6 +65,10 @@ Certificates
 You can see the certificates received from Coursera in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
 * Data Analysis with Python
 * Machine Learning with Python
+* Machine Learning
+   * Supervised Machine Learning: Regression and Classification
+   * Advanced Learning Algorithms
+   * Unsupervised Learning, Recommenders, Reinforcement Learning
 * Deep Learning
   * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
   * Sequence Models
