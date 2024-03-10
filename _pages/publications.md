@@ -6,6 +6,12 @@ author_profile: true
 ---
 Here are some of my publications, sorted by categories and in descending order by year. Please find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en).<br>
 ______________________________________________________________________________________________________________________________ <br>
+**A systematic review of applying grey wolf optimizer, its variants,
+and its developments in different Internet of Things applications**<br>
+ Mohammad HNadimi-Shahraki, and Hoda Zamani, and Zahra Asghari Varzaneh, and Ali Safaa Sadiq, and Seyedali Mirjalili.<br>
+<img src='/images/IoT.jpg' width="60" height="70" > _Internet of Things,_(2024) 
+[[Paper Link ]](https://www.sciencedirect.com/science/article/abs/pii/S2542660524000775) 
+
 **Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?1**<br>
 Razieh Mirzaeian, and Raoof Nopour, and Zahra Asghari Varzaneh, and Mohsen Shafiee, and Mostafa Shanbehzadeh, and Hadi Kazemi‑Arpanahi.<br>
 <img src='/images/BMC2.jpg' width="60" height="70" > _BioMedical Engineering OnLine,_(2023) 
