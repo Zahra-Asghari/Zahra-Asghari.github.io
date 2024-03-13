@@ -41,3 +41,9 @@ author_profile: true
 
 <br><a href="https://www.coursera.org/account/accomplishments/verify/9R8AEE3PFN93">**Structuring Machine Learning Projects**</a>
 <br/><img src='/images/SML.jpeg' width="900" height="350">
+
+<br>**Python Developer**
+<br/><center><img src='/images/Python.jpg' width="550" height="300"></center>
+
+<br>**SQL Intermediate**
+<br/><center><img src='/images/SQL.jpg' width="550" height="350"></center>
