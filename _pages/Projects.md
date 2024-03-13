@@ -5,6 +5,7 @@ permalink: /Projects/
 author_profile: true
 ---
 <p align="justify"> In light of my profound interest in applying my knowledge in the realms of data mining, machine learning, and deep learning to real-world scenarios, particularly within the field of healthcare and medicine, I showcase a selection of my research endeavors on this page. These endeavors aim to explore the practical applications of these methodologies and their implications in various contexts.</p>
+<hr>
 
 <img src='/images/R.png' width="40" height="45" >**Using machine learning algorithms to predict successful aging: comparing basic vs ensemble techniques(2022)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the best model for predicting successful aging and the quality of life of the elderly through the training of selected data mining models.<br>
@@ -14,6 +15,7 @@ Aging is a chief risk factor for most chronic illnesses and infirmities. The gro
 
 [Certificate](https://ris.abadanums.ac.ir/teammate?xyz=MQXiCTO6H67-ojKg_VWnvpEV4hhxIlo_Hpr2Coyp_gQCTBiQy1neFyTaTAxn6zm0uk2UOXchl9V8zdb3NMcUVqgOLChYt68Mg2wU-PX5J1QXyZ)
 <br><center><img src='/images/RP2.JPG' width="600" height="450"></center>
+<hr>
 
 <img src='/images/R.png' width="50" height="50" >**Using Adaptive Neuro-Fuzzy Inference System for Predicting Successful Aging (2022)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a>.<br>
@@ -21,10 +23,13 @@ Considering the change in the age trend of people in society and the aging of th
   
 [Certificate](https://ris.abadanums.ac.ir/teammate?xyz=MQXiCTO6H67-ojKg_VWnvpEV4hhxIlo_Hpr2Coyp_gQCTBiQy1neFyTaTAxn6zm0uk2UOXchl9V8zdb3NMcUVqgOLChYt68Mg2wU-PX5J1QXyZ)
 <br><center><img src='/images/RP1.JPG' width="600" height="450"></center>
+<hr>
+
 <img src='/images/R.png' width="50" height="50" >**Deep text clustering using stacked AutoEncoder (2022)**
 <p align="justify"> This research project was commissioned by <a href="https://barez.org/"> Iran's Barez Rubber Company</a>. Textual data is a form of unstructured information that is easily processed by humans but poses challenges for computers to comprehend. Text mining techniques effectively discover meaningful insights from text, garnering significant attention in recent years. The purpose of this research was to evaluate and analyze opinions and suggestions provided by the Barez Iranian company. The dataset from the company was unlabeled. Manual extraction of useful information from large unlabeled textual data is very difficult and time-consuming. Therefore, this study employed intelligent deep-learning methods to analyze the suggestions presented in the Persian language. Using the BERTopic model, the dataset was analyzed through clustering, assigning each document to a topic with a probability distribution. Additionally, a novel deep text clustering approach, combining a stacked autoencoder encoder and k-means clustering, was proposed to organize the textual documents into semantically meaningful groups for information extraction from the prominent dataset. Experimental evaluations demonstrated that the proposed model notably outperforms other clustering methods.<br>
   <a href="https://dl.acm.org/doi/10.1007/s11042-022-12155-0">Deep text clustering using stacked AutoEncoder</a></p>
 <center><img src='/images/DeepClustering.jpg' width="450" height="280"></center>
-              
+ <hr>
+ 
 <img src='/images/R.png' width="50" height="50" >**Extracting knowledge from the data of diabetic patients using Metaheuristic algorithms and Data mining models (2018)**
 <p align="justify"> This research project was commissioned by <a href="https://kub.ac.ir/"> Kosar University of Bojnord,Iran</a>. Extracting knowledge from the massive amount of data related to disease records and patients' medical records using the data mining process can lead to the identification of the rules governing the development of diseases. It provides valuable information to healthcare professionals for identifying disease causes, predicting outcomes, and undertaking appropriate treatments. Diabetes is the fourth leading cause of death in most developed countries. The main objective of this research is to present an algorithm for knowledge extraction and pattern discovery from diabetic patient data to achieve more accurate and efficient early prediction of diabetes. To this end, clustering algorithms were utilized to eliminate noisy and outlier data. Additionally, an improved metaheuristic algorithm was used for selecting influential features in disease diagnosis. The performance of the proposed algorithm was evaluated on a diabetes dataset using a perceptron neural network. The results demonstrated the superiority of the proposed model over other algorithms in this research project.</p>
