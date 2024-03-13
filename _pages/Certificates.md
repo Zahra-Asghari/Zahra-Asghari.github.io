@@ -21,6 +21,9 @@ author_profile: true
 <br><a href="https://www.coursera.org/account/accomplishments/verify/A4NYYHDAFYVC">**Machine Learning with Python**</a>
 <br/><img src='/images/ML.jpeg' width="900" height="350">
 
+<br><a href="https://www.coursera.org/account/accomplishments/verify/5J9RZFLT75NN">**Data Analysis with Python**</a>
+<br/><img src='/images/Data Analysis with Python.JPG' width="900" height="350">
+
 <br><a href="https://www.coursera.org/account/accomplishments/specialization/AWYDLPMM8WSX">**Deep Learning**</a>
 <br/><img src='/images/DL.jpeg' width="900" height="350">
 
