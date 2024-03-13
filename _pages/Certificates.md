@@ -42,8 +42,8 @@ author_profile: true
 <br><a href="https://www.coursera.org/account/accomplishments/verify/9R8AEE3PFN93">**Structuring Machine Learning Projects**</a>
 <br/><img src='/images/SML.jpeg' width="900" height="350">
 
-<br>**Python Developer**
+<br><a href="https://api2.sololearn.com/v2/certificates/CC-3UDKHMGB/image/png">**Python Developer**</a>
 <br/><center><img src='/images/Python.jpg' width="550" height="300"></center>
 
-<br>**SQL Intermediate**
+<br><a href="https://api2.sololearn.com/v2/certificates/CC-MN2RFAL6/image/png">**SQL Intermediate**</a>
 <br/><center><img src='/images/SQL.jpg' width="550" height="350"></center>
