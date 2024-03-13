@@ -11,10 +11,9 @@ paperurl: 'http://Zahra-Asghari.github.io/files/CV.pdf'
   
 [<img src='/images/CV.png' width="40" height="50" > <br>CV File](http://Zahra-Asghari.github.io/files/CV.pdf)
 {% include base_path %}
-
+<hr>
 Education
 ======
-* B.Sc. in Computer Science, Vali-Asr University of Rafsanjan, 2009
 * M.Sc. in Computer Science(Major in Artificial Intelligence), Shahid Bahonar University of Kerman (UK), 2013
     * Supervisor: [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
     * GPA : 3.8/4
@@ -56,6 +55,7 @@ Skills
 * Programming
   * MATLAB
   * Python
+  * SQL
   * Git
 * University Teaching
 * Research
@@ -75,6 +75,8 @@ You can see the certificates received from Coursera in the [Certificate](https:/
   * Convolutional Neural Networks
   * Neural Networks and Deep Learning
   * Structuring Machine Learning Projects
+* Python Developer
+* SQL Intermediate
 
 Publications
 ======
