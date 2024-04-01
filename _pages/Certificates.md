@@ -6,6 +6,9 @@ author_profile: true
 ---
 <p align="justify">I have completed several courses on Coursera, and I completed multiple projects assigned for each course. By undertaking these projects, I have gained valuable experience in various applications. I am well-prepared to tackle larger projects in different domains. Here, I would like to highlight this aspect and present my accomplishments.</p>
 
+<a href="https://www.coursera.org/account/accomplishments/verify/ET6QAN6UXW2L">**Advanced Computer Vision with TensorFlow**</a>
+<br/><img src='/images/ComV.jpeg' width="900" height="350">
+
 <a href="https://www.coursera.org/account/accomplishments/specialization/VHTECATFCLNH">**Machine Learning**</a>
 <br/><img src='/images/ML1.jpeg' width="900" height="350">
 
