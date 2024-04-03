@@ -50,3 +50,6 @@ author_profile: true
 
 <br><a href="https://api2.sololearn.com/v2/certificates/CC-MN2RFAL6/image/png">**SQL Intermediate**</a>
 <br/><center><img src='/images/SQL.jpg' width="550" height="350"></center>
+
+<br><a href="https://api2.sololearn.com/v2/certificates/CC-KK4PSX2G/image/png">**Web Development**</a>
+<br/><center><img src='/images/WD.jpg' width="550" height="300"></center>
