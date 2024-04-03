@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 paperurl: 'http://Zahra-Asghari.github.io/files/CV.pdf'
 ---
-<p align="justify"> Here, I present my curriculum vitae (CV) highlighting my scientific and research experiences in relevant fields. Additionally, you are capable of receiving and reviewing my CV file within this Page.</p>
+<p align="justify"> Here, I present my curriculum vitae (CV) highlighting my scientific and research experiences in relevant fields. Additionally, you are capable of receiving and reviewing my CV file on this Page.</p>
   
 [<img src='/images/CV.png' width="40" height="50" > <br>CV File](http://Zahra-Asghari.github.io/files/CV.pdf)
 {% include base_path %}
@@ -63,6 +63,7 @@ Skills
 Certificates
 ======
 You can see the certificates received from Coursera in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
+* Advanced Computer Vision with TensorFlow
 * Data Analysis with Python
 * Machine Learning with Python
 * Machine Learning
@@ -77,14 +78,15 @@ You can see the certificates received from Coursera in the [Certificate](https:/
   * Structuring Machine Learning Projects
 * Python Developer
 * SQL Intermediate
+* Web Development
 
 Publications
 ======
-You can find my publications in details in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
+You can find my publications in detail in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
 * Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?
 * A Systematic Review of the Whale Optimization Algorithm: Theoretical Foundation, Improvements, and Hybridizations
 * An Intelligent Fuzzy System for Diabetes Disease Detection using Harris Hawks Optimization
-* A novel binary horse herd optimization algorithm for feature selection problem
+* A novel binary horse herd optimization algorithm for the feature selection problem
 * Binary starling murmuration optimizer algorithm to select effective features from medical data
 * Prediction of successful aging using ensemble machine learning algorithms
 * A new hybrid feature selection based on Improved Equilibrium Optimization
@@ -105,12 +107,12 @@ Talks and Presentation
   * Word Embeddingsin Natural Language Processing (NLP)
   * Metaheuristic algorithms
   * Feature Selection Methods
-* Ministry of Education (2022, Esfahan,Iran)
+* Ministry of Education (2022, Esfahan, Iran)
   * Applications of artificial intelligence in life 
-* 52<sup>nd</sup>Annual Iranian mathematics Conference (2021,Kerman,Iran)
+* 52<sup>nd</sup>Annual Iranian Mathematics Conference (2021, Kerman, Iran)
   * A hybrid feature selection method for high-dimensional data based on HHO algorithm
 * 4<sup>th</sup>International Conference on Information Technology Management, Communication and Computer(2014,Qom,Iran)
-  * A hybrid Cuckoo Optimization Algorithm based fuzzy expert system for diabetes disease diagnosis
+  * A hybrid Cuckoo Optimization Algorithm based on a fuzzy expert system for diabetes disease diagnosis
     
 Teaching
 ======
@@ -125,9 +127,7 @@ Teaching
   * Programming
   * Adobe Photoshop
   * Adobe Premiere
-  * Autodesk Maya
   * Content production
-  * ICDL
   * ...
   
 Honors and Activities 
