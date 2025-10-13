@@ -17,7 +17,7 @@ In rhinoplasty, managing intraoperative blood loss poses a significant challenge
   
  * [Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach](https://www.nature.com/articles/s41598-025-07450-3)
  
-<br><center><img src='/images/RP3.jpg' width="600" height="450"></center>
+<br><center><img src='/images/Roadmap.png' width="600" height="450"></center>
 <hr>
 
 <img src='/images/R.png' width="40" height="45" >**Using machine learning algorithms to predict successful aging: comparing basic vs ensemble techniques(2022)**
