@@ -9,14 +9,14 @@ Here are some of my publications, sorted by categories and in descending order b
 
 **An ensemble model based on transfer learning for the early detection of Alzheimer’s disease**<br>
 Zahra Asghari Varzaneh, Seyyed Mohammad Mousavi, Reza Khoshkangini, Seyyed Mostafa Moosavi Khaliji.<br>
-<img src='/images/SR.jpg' width="60" height="70" > _Scientific Reports,_(2024) 
+<img src='/images/SR.jpg' width="60" height="70" > _Scientific Reports,_(2025) 
 [[Paper Link ]](https://www.nature.com/articles/s41598-025-07450-3)
 <hr>
 
 
 **Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach**<br>
 Zahra Asghari Varzaneh, Akram Hemmatipour, Hadi Kazemi‑Arpanahi .<br>
-<img src='/images/SR.jpg' width="60" height="70" > _Scientific Reports,_(2024) 
+<img src='/images/SR.jpg' width="60" height="70" > _Scientific Reports,_(2025) 
 [[Paper Link ]](https://www.nature.com/articles/s41598-025-07450-3)
 <hr>
 
