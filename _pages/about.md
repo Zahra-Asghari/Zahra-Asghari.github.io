@@ -25,9 +25,9 @@ I published many <a href="https://scholar.google.com/citations?user=dH-0GtkAAAAJ
 
 
 <h2>Current projects</h2>
-   <li><b Enhancing In Vitro Fertilization with Environment Optimization
+   <li> Enhancing In Vitro Fertilization with Environment Optimization
 Utilizing Artificial Intelligence (EIVF-AI) </li>
-  <li>**Artificial Intelligence and Machine Learning Approaches in Male Infertility Diagnosis**</li>
+  <li> Artificial Intelligence and Machine Learning Approaches in Male Infertility Diagnosis</li>
 
 
 
