@@ -8,6 +8,22 @@ author_profile: true
 We are proud to have received funding from <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences</a>, as it enabled us to carry out this project. The financial support provided by the University was crucial in facilitating the necessary resources, such as equipment, materials, and personnel, required for the successful completion of the project.</p>
 <hr>
 
+
+<img src='/images/R.png' width="40" height="45" >**Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach(2025)**
+<p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty<br>
+In rhinoplasty, managing intraoperative blood loss poses a significant challenge, as excessive bleeding can hinder surgical visibility and adversely affect patient outcomes. In this study, clonidine and TXA were used as preoperative medications to evaluate their effects on blood loss during rhinoplasty surgeries. The findings suggest that regression algorithms can effectively predict intraoperative hemorrhage, with Linear regression and Ridge regression yielding the most reliable results among the tested models. Notably, clonidine was found to be more effective than TXA, significantly reducing blood loss.
+  </p>
+  <center><img src='/images/roadmap-RP3.png' width="550" height="380"></center>
+  <p align="justify">This research enhances surgical efficiency and patient safety by providing surgeons with a clearer understanding of the impacts of these medications, ultimately supporting the goal of achieving the best possible surgical outcomes. Some of the results of our research project have been published in the following paper:</p>
+  
+ * [Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach](https://www.nature.com/articles/s41598-025-07450-3)
+ 
+<br><center><img src='/images/RP3.JPG' width="600" height="450"></center>
+<hr>
+
+
+
+
 <img src='/images/R.png' width="40" height="45" >**Using machine learning algorithms to predict successful aging: comparing basic vs ensemble techniques(2022)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the best model for predicting successful aging and the quality of life of the elderly through the training of selected data mining models.<br>
 Aging is a chief risk factor for most chronic illnesses and infirmities. The growth in the aged population increases medical costs, thus imposing a heavy financial burden on families and communities. Successful aging (SA) is a positive and qualitative view of aging. From a biomedical perspective, SA is defined as the absence of diseases or disability disorders. This is distinct from normal aging, which is associated with age-related deterioration in physical and cognitive functions. From a social perspective, SA highlights life satisfaction and individual well-being, usually attained through socialization. It is an abstract and multidimensional concept surrounded by imprecision about its definition and measurement. This research project attempted to find the most effective features of SA as defined by Rowe and Kahn’s theory. The determined features were used as input parameters of six machine learning (ML) algorithms to create and validate predictive models for SA.</p>
