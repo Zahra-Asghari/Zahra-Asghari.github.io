@@ -12,7 +12,7 @@ We are proud to have received funding from <a href="https://abadanums.ac.ir/">Ab
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty<br>
 In rhinoplasty, managing intraoperative blood loss poses a significant challenge, as excessive bleeding can hinder surgical visibility and adversely affect patient outcomes. In this study, clonidine and TXA were used as preoperative medications to evaluate their effects on blood loss during rhinoplasty surgeries. The findings suggest that regression algorithms can effectively predict intraoperative hemorrhage, with Linear regression and Ridge regression yielding the most reliable results among the tested models. Notably, clonidine was found to be more effective than TXA, significantly reducing blood loss.
   </p>
-  <center><img src='/images/roadmap-RP3.png' width="550" height="380"></center>
+  <center><img src='/images/roadmap-RP3.ipg' width="550" height="380"></center>
   <p align="justify">This research enhances surgical efficiency and patient safety by providing surgeons with a clearer understanding of the impacts of these medications, ultimately supporting the goal of achieving the best possible surgical outcomes. Some of the results of our research project have been published in the following paper:</p>
   
  * [Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach](https://www.nature.com/articles/s41598-025-07450-3)
