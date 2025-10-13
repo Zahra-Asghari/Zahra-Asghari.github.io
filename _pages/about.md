@@ -24,7 +24,7 @@ I published many <a href="https://scholar.google.com/citations?user=dH-0GtkAAAAJ
 <p>My primary goal is to advance the frontiers of knowledge and foster innovation in AI. I thrive on collaboration and am always eager to work with fellow researchers, industry partners, and organizations to bridge the gap between academia
 
 
-<h2>Current projects</h2>
+<h3>Current projects</h3>
 <ul style="list-style-type: none; padding-left: 20px;">
   <li style="font-weight: bold; margin-bottom: 10px;">
     Enhancing In Vitro Fertilization with Environment Optimization Utilizing Artificial Intelligence (EIVF-AI)
