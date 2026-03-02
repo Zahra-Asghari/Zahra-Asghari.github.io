@@ -12,7 +12,6 @@ I am currently a Postdoctoral Researcher at <a href="https://mau.se/en/persons/z
 I published many <a href="https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en">papers</a> in prestigious journals and conferences and received top researcher awards from the university. I have experience carrying out medical data management analysis and machine learning research, and completing relevant  <a href="https://zahra-asghari.github.io/Projects/">projects</a>. My goal as a researcher is to advance knowledge and foster innovation in the scientific research domain. I enjoy collaborating with peers and working with industry and organizations to transfer knowledge.</p>
 
 <h3>Research Interests</h3>
-======
 <ul class="twocol">
   <li>Explainable AI (XAI)</li>
   <li>Trustworthy ML</li>
@@ -23,11 +22,10 @@ I published many <a href="https://scholar.google.com/citations?user=dH-0GtkAAAAJ
 </ul>
 
 
-
+<hr>
 
 
 <h3>Current projects</h3>
-======
 <ul style="list-style-type: none; padding-left: 20px;">
   <li style="font-weight: bold; margin-bottom: 10px;">
     Enhancing In Vitro Fertilization with Environment Optimization Utilizing Artificial Intelligence (EIVF-AI)
