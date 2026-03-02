@@ -4,11 +4,45 @@ title: "Teaching & Academic Activities"
 permalink: /teaching/
 author_profile: true
 ---
-<p align="justify"> Within this page, a compilation of teaching experiences in both university and high school settings, alongside my engagements in delivering speeches and presentations at conferences and scientific symposiums, is presented. These speaking engagements have primarily focused on topics encompassing the realms of artificial intelligence and practical software applications.</p>
+<p align="justify"> This page summarizes my teaching, supervision, pedagogical training, and academic presentation activities across university and upper secondary levels. My experience includes delivering computer science courses, supervising final projects at the bachelor's and Master's levels, and presenting scholarly works. My primary academic focus is on artificial intelligence, machine learning, and applied software systems.</p>
+
+    
+Teaching and Supervision
+======
+* **Malmö University**
+  * Advanced Machine Learning
+  * Database Systems
+  * AI in Society
+  * Seminar Session
+  * Course project Session
+  * Final Project Supervision & Examination
+    
+* **Payame Noor University**
+  * Computer Fundamentals and Programming
+  * Data Structures
+  * Theory of Languages and Automata
+  * Design of Algorithms
+  * Artificial Intelligence
+  * Final Project Supervision
+    
+* **Secondary Education**
+  * Programming
+  * Adobe Photoshop
+  * Adobe Premiere
+  * Content production
+  * ICDL
+  * ...
+
+Pedagogical Training & Teaching Development 
+======
+* **Malmö University**
+  * Scholarship of University Teaching (5 ECTS)
+ This course provided comprehensive training in Swedish higher education pedagogy, focusing on student-centered learning, constructive course design, assessment and examination strategies, reflective teaching practice, and the use of course evaluations for continuous improvement.
+  * Generative AI in Teaching and Examination (5 ECTS, upcoming)
+    This upcoming course will focus on integrating generative AI tools into higher education, designing AI-aware assessments, promoting responsible AI use among students, and maintaining academic integrity in an AI-rich learning environment.
 
 
-
-Talks and Presentation
+ Talks and Presentation
 ======
 * **Shahid Bahonar University of Kerman (2020-2022)**
   * Convolutional Neural Network
@@ -25,23 +59,4 @@ Talks and Presentation
     
 * **4<sup>th</sup>International Conference on Information Technology Management, Communication and Computer(2014,Qom,Iran)**
   * A hybrid Cuckoo Optimization Algorithm based fuzzy expert system for diabetes disease diagnosis
-
-
     
-Teaching
-======
-* **Payame Noor University**
-  * Computer Fundamentals and Programming
-  * Data Structures
-  * Theory of Languages and Automata
-  * Design of Algorithms
-  * Artificial Intelligence
-  * **Final Project**
-    
-* **High School**
-  * Programming
-  * Adobe Photoshop
-  * Adobe Premiere
-  * Content production
-  * ICDL
-  * ...
