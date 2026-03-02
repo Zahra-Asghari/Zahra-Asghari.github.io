@@ -66,6 +66,7 @@ Skills
  Tensorflow, Keras, H<sub>2</sub>O.ai
 * Programming <br>
  MATLAB, Python, SQL, Git
+
 Professional Associations and Membership
 ======
 * AI Researcher at Abadan University of Medical Sciences
