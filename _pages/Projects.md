@@ -11,7 +11,7 @@ We are proud to have received funding from <a href="https://abadanums.ac.ir/">Ab
 <img src='/images/R.png' width="40" height="45" >**Artificial Intelligence and Machine Learning Approaches in Male Infertility Diagnosis (ongoing)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and starts with a systematic review of existing studies on Artificial Intelligence (AI) and Machine Learning (ML) in male infertility diagnosis to provide an overall perspective of current approaches and research gaps. Based on these findings, the work will be extended toward developing data-driven methods to enhance diagnostic insights. The project is currently ongoing ...
   </p>
-
+<hr>
 
 <img src='/images/R.png' width="40" height="45" >**Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach(2025)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty<br>
