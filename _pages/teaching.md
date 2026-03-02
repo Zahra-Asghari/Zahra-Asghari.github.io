@@ -36,9 +36,9 @@ Teaching and Supervision
 Pedagogical Training & Teaching Development 
 ======
 * **Malmö University**
-  * Scholarship of University Teaching (5 ECTS)
+  * Scholarship of University Teaching (5 ECTS) <br>
  This course provided comprehensive training in Swedish higher education pedagogy, focusing on student-centered learning, constructive course design, assessment and examination strategies, reflective teaching practice, and the use of course evaluations for continuous improvement.
-  * Generative AI in Teaching and Examination (5 ECTS, upcoming)
+  * Generative AI in Teaching and Examination (5 ECTS, upcoming)  <br>
     This upcoming course will focus on integrating generative AI tools into higher education, designing AI-aware assessments, promoting responsible AI use among students, and maintaining academic integrity in an AI-rich learning environment.
 
 
