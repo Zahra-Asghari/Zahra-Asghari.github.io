@@ -20,8 +20,7 @@ I published many <a href="https://scholar.google.com/citations?user=dH-0GtkAAAAJ
   <li>Medical Data Analysis</li>
   <li>Time Series Analysis</li>
 </ul>
-<h3>My Mission</h3>
-<p>My primary goal is to advance the frontiers of knowledge and foster innovation in AI. I thrive on collaboration and am always eager to work with fellow researchers, industry partners, and organizations to bridge the gap between academia
+
 
 
 <h3>Current projects</h3>
