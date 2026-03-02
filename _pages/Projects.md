@@ -8,6 +8,11 @@ author_profile: true
 We are proud to have received funding from <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences</a>, as it enabled us to carry out this project. The financial support provided by the University was crucial in facilitating the necessary resources, such as equipment, materials, and personnel, required for the successful completion of the project.</p>
 <hr>
 
+<img src='/images/R.png' width="40" height="45" >**Artificial Intelligence and Machine Learning Approaches in Male Infertility Diagnosis (ongoing)**
+<p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and starts with a systematic review of existing studies on Artificial Intelligence (AI) and Machine Learning (ML) in male infertility diagnosis to provide an overall perspective of current approaches and research gaps. Based on these findings, the work will be extended toward developing data-driven methods to enhance diagnostic insights. The project is currently ongoing ...
+  </p>
+
+
 <img src='/images/R.png' width="40" height="45" >**Comparing the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty: a machine learning approach(2025)**
 <p align="justify"> This research project was commissioned by the <a href="https://abadanums.ac.ir/">Abadan University of Medical Sciences, Iran</a> and tries to identify the effect of pre-anesthesia clonidine and tranexamic acid on intraoperative bleeding volume in rhinoplasty<br>
 In rhinoplasty, managing intraoperative blood loss poses a significant challenge, as excessive bleeding can hinder surgical visibility and adversely affect patient outcomes. In this study, clonidine and TXA were used as preoperative medications to evaluate their effects on blood loss during rhinoplasty surgeries. The findings suggest that regression algorithms can effectively predict intraoperative hemorrhage, with Linear regression and Ridge regression yielding the most reliable results among the tested models. Notably, clonidine was found to be more effective than TXA, significantly reducing blood loss.
