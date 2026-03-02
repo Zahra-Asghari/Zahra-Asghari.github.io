@@ -37,31 +37,14 @@ Work experience
   
 Skills
 ======
-* Computer Science
-* Artificial Intelligence (AI)
   * Data mining
-    * RapidMiner
-    * Knime
-    * Weka
-    * Oracle
-    * SPSS
+ RapidMiner, Knime, Weka, Oracle, SPSS
   * Machine Learning
-    * keras
-    * Scikit-learn
-    * NLTK
-    * Numpy
-    * Neuraldesigner
+ keras, Scikit-learn, NLTK, Numpy, Neuraldesigner
   * Deep Learning
-    * Tensorflow
-    * Keras
-    * H<sub>2</sub>O.ai
+ Tensorflow, Keras, H<sub>2</sub>O.ai
 * Programming
-  * MATLAB
-  * Python
-  * SQL
-  * Git
-* University Teaching
-* Research
+ MATLAB, Python, SQL, Git
   
 Certificates
 ======
@@ -71,45 +54,18 @@ Publications
 ======
 You can find my publications in detail in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
 
-Talks and Presentation
+Teaching & Academic Activities
 ======
-* Shahid Bahonar University of Kerman (2020-2022)
-  * Convolutional Neural Network
-  * Autoencoders
-  * Word Embeddingsin Natural Language Processing (NLP)
-  * Metaheuristic algorithms
-  * Feature Selection Methods
-* Ministry of Education (2022, Esfahan, Iran)
-  * Applications of artificial intelligence in life 
-* 52<sup>nd</sup>Annual Iranian Mathematics Conference (2021, Kerman, Iran)
-  * A hybrid feature selection method for high-dimensional data based on HHO algorithm
-* 4<sup>th</sup>International Conference on Information Technology Management, Communication and Computer(2014,Qom,Iran)
-  * A hybrid Cuckoo Optimization Algorithm based on a fuzzy expert system for diabetes disease diagnosis
-    
-Teaching
-======
-* Payame Noor University
-  * Computer Fundamentals and Programming
-  * Data Structures
-  * Theory of Languages and Automata
-  * Design of Algorithms
-  * Artificial Intelligence
-  * **Final Project** 
-* High School
-  * Programming
-  * Adobe Photoshop
-  * Adobe Premiere
-  * Content production
-  * ...
+To learn more about my teaching activities and university pedagogical training, visit the [Teaching & Academic Activities](https://zahra-asghari.github.io/teaching/) page.
   
 Honors and Activities 
 ======
 * Best faculty researcher prize  
-  * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013)
+  * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013 & 2024)
 * First ranked student in M.Sc
 * First ranked student in Ph.D
 * Received Full Scholarship from University
-* Referee in some journals
+* Peer reviewer for scientific journals 
 
 Professional Associations and Membership
 ======
@@ -119,10 +75,11 @@ Professional Associations and Membership
 * Member of IAENG Society of Data Mining
 * Member of IAENG Society of Computer Science
     
-Collaborators
+References
 ======
+* [Reza Khoshkangini](https://scholar.google.se/citations?user=jTfKNxMAAAAJ&hl=en)
+* [Magnus Johnsson](https://scholar.google.se/citations?hl=en&user=cUMGxpwAAAAJ&view_op=list_works&sortby=pubdate)
+* [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
 * [Dr. Soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
 * [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
-* [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
-* [Dr. Marjan Kuchaki Rafsanjani](https://scholar.google.com/citations?user=3Q6pFWoAAAAJ&hl=en)
-* [Dr. Hoda Zamani](https://scholar.google.com/citations?user=bpZOZWsAAAAJ&hl=en)
+  
