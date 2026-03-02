@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and Teaching"
+title: "Teaching & Academic Activities"
 permalink: /teaching/
 author_profile: true
 ---
