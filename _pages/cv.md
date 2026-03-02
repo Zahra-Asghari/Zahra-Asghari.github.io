@@ -37,13 +37,13 @@ Work experience
   
 Skills
 ======
-  * Data mining
+  * Data mining <br>
  RapidMiner, Knime, Weka, Oracle, SPSS
-  * Machine Learning
+  * Machine Learning <br>
  keras, Scikit-learn, NLTK, Numpy, Neuraldesigner
-  * Deep Learning
+  * Deep Learning <br>
  Tensorflow, Keras, H<sub>2</sub>O.ai
-* Programming
+* Programming <br>
  MATLAB, Python, SQL, Git
   
 Certificates
@@ -79,7 +79,7 @@ References
 ======
 * [Reza Khoshkangini](https://scholar.google.se/citations?user=jTfKNxMAAAAJ&hl=en)
 * [Magnus Johnsson](https://scholar.google.se/citations?hl=en&user=cUMGxpwAAAAJ&view_op=list_works&sortby=pubdate)
-* [Dr. MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
-* [Dr. Soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
-* [Prof. Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
+* [MH. Nadimi-Shahraki](https://scholar.google.com/citations?user=sT0YnDIAAAAJ&hl=en)
+* [Seyedali mirjalili](https://scholar.google.com/citations?user=TJHmrREAAAAJ&hl=en)
+* [Soodeh Hosseini](https://scholar.google.com/citations?user=EPVprngAAAAJ&hl=en)
   
