@@ -34,6 +34,27 @@ Work experience
     
 * 2020 – Current (Part-time): AI Researcher
   * Ministry of Health and Medical Education  
+
+Publications
+======
+You can find my publications in detail in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
+
+Teaching & Academic Activities
+======
+To learn more about my teaching activities and university pedagogical training, visit the [Teaching & Academic Activities](https://zahra-asghari.github.io/teaching/) page.
+
+Certificates
+======
+You can see the certificates received in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
+  
+Honors and Activities 
+======
+* Best faculty researcher prize  
+  * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013 & 2024)
+* First ranked student in M.Sc
+* First ranked student in Ph.D
+* Received Full Scholarship from University
+* Peer reviewer for scientific journals 
   
 Skills
 ======
@@ -45,28 +66,6 @@ Skills
  Tensorflow, Keras, H<sub>2</sub>O.ai
 * Programming <br>
  MATLAB, Python, SQL, Git
-  
-Certificates
-======
-You can see the certificates received in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
-
-Publications
-======
-You can find my publications in detail in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
-
-Teaching & Academic Activities
-======
-To learn more about my teaching activities and university pedagogical training, visit the [Teaching & Academic Activities](https://zahra-asghari.github.io/teaching/) page.
-  
-Honors and Activities 
-======
-* Best faculty researcher prize  
-  * [Shahid Bahonar University of Kerman](https://uk.ac.ir/) (2013 & 2024)
-* First ranked student in M.Sc
-* First ranked student in Ph.D
-* Received Full Scholarship from University
-* Peer reviewer for scientific journals 
-
 Professional Associations and Membership
 ======
 * AI Researcher at Abadan University of Medical Sciences
