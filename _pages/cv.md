@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 paperurl: 'http://Zahra-Asghari.github.io/files/CV.pdf'
 ---
-<p align="justify"> Here, I present my curriculum vitae (CV) highlighting my scientific and research experiences in relevant fields. Additionally, you are capable of receiving and reviewing my CV file on this Page.</p>
+<p align="justify"> Here, I present my curriculum vitae (CV), highlighting my scientific and research experiences in relevant fields. Additionally, you are capable of receiving and reviewing my CV file on this Page.</p>
   
-[<img src='/images/CV.png' width="40" height="50" > <br>CV File](http://Zahra-Asghari.github.io/files/CV.pdf)
+[<img src='/images/CV.png' width="40" height="50" > <br>CV File](http://Zahra-Asghari.github.io/files/CV-Zahra Asghari Varzaneh-March 2026.pdf)
 {% include base_path %}
 <hr>
 Education
@@ -23,13 +23,16 @@ Education
     
 Work experience
 ======
+* 2025 - Current (full-time):	Postdoctoral researcher
+   * Malmö University
+                                                                                                                     
 * 2013 – 2019 (Part-time): Lecturer in  Computer Engineering
   * Payame Noor University of Esfahan
 
-* 2016 – Current (Full –time): High school  Lecturer /Management 
+* 2016 – 2024: High school  Lecturer /Management 
   * High school for girls, Ministry of Education
     
-* 2020 – Current (Part-time) : AI Researcher
+* 2020 – Current (Part-time): AI Researcher
   * Ministry of Health and Medical Education  
   
 Skills
@@ -62,43 +65,12 @@ Skills
   
 Certificates
 ======
-You can see the certificates received from Coursera in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
-* Advanced Computer Vision with TensorFlow
-* Data Analysis with Python
-* Machine Learning with Python
-* Machine Learning
-   * Supervised Machine Learning: Regression and Classification
-   * Advanced Learning Algorithms
-   * Unsupervised Learning, Recommenders, Reinforcement Learning
-* Deep Learning
-  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
-  * Sequence Models
-  * Convolutional Neural Networks
-  * Neural Networks and Deep Learning
-  * Structuring Machine Learning Projects
-* Python Developer
-* SQL Intermediate
-* Web Development
+You can see the certificates received in the [Certificate](https://zahra-asghari.github.io/Certificates/). 
 
 Publications
 ======
 You can find my publications in detail in [My Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en) and [Publications](https://zahra-asghari.github.io/publications/).
-* Which are best for successful aging prediction? Bagging, boosting, or simple machine learning algorithms?
-* A Systematic Review of the Whale Optimization Algorithm: Theoretical Foundation, Improvements, and Hybridizations
-* An Intelligent Fuzzy System for Diabetes Disease Detection using Harris Hawks Optimization
-* A novel binary horse herd optimization algorithm for the feature selection problem
-* Binary starling murmuration optimizer algorithm to select effective features from medical data
-* Prediction of successful aging using ensemble machine learning algorithms
-* A new hybrid feature selection based on Improved Equilibrium Optimization
-* Deep text clustering using stacked AutoEncoder
-* The impact of preprocessing techniques for Covid-19 mortality prediction
-* A new COVID-19 intubation prediction strategy using an intelligent feature selection and K-NN method
-* Intrusion detection system using a new fuzzy rule-based classification system based on genetic algorithm
-* Edge detection in digital images using Ant Colony Optimization
-* Intrusion detection by data mining algorithms: a review
-* A survey of hierarchical clustering algorithms
-* **Book translating:** Fundamentals of the New Artificial Intelligence: Neural, Evolutionary, Fuzzy and more
-  
+
 Talks and Presentation
 ======
 * Shahid Bahonar University of Kerman (2020-2022)
