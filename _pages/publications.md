@@ -7,6 +7,19 @@ author_profile: true
 Here are some of my publications, sorted by categories and in descending order by year. Please find more of my publications on [Google Scholar](https://scholar.google.com/citations?user=dH-0GtkAAAAJ&hl=en).<br>
 <hr>
 
+
+**A Lightweight Transformer Approach for Predicting Blastocyst Formation on Limited Embryo Images**<br>
+Zahra Asghari Varzaneh, Niclas Wölner-Hanssen, Reza Khoshkangini.<br>
+<img src='/images/IEEE.png' width="60" height="70" > _2025 International Conference on Visual Communications and Image Processing (VCIP),_(2025) 
+[[Paper Link ]](https://ieeexplore.ieee.org/abstract/document/11396800)
+<hr>
+
+**Deep Convolutional Neural Networks in Neurological Disorders Diagnosis: Comprehensive Review of Cutting-Edge Architectures, Challenges, and Future Directions**<br>
+Hoda Zamani, Zahra Asghari Varzaneh, Mohammad H Nadimi-Shahraki.<br>
+<img src='/images/Arch.jpg' width="60" height="70" >_Archives of Computational Methods in Engineering,_(2025) 
+[[Paper Link ]](https://link.springer.com/article/10.1007/s11831-025-10435-0)
+<hr>
+
 **An ensemble model based on transfer learning for the early detection of Alzheimer’s disease**<br>
 Zahra Asghari Varzaneh, Seyyed Mohammad Mousavi, Reza Khoshkangini, Seyyed Mostafa Moosavi Khaliji.<br>
 <img src='/images/SR.jpg' width="60" height="70" > _Scientific Reports,_(2025) 
